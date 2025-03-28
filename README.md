@@ -1,5 +1,4 @@
 # Telco-Customer-Churn-Analysis
-##  Customer Churn Prediction
 
 ## Projektübersicht
 Diese Anwendung dient der Vorhersage von Kunden-Churn. Ziel ist es, potenziell abwandernde Kunden frühzeitig zu identifizieren und so gezielte Maßnahmen zur Kundenbindung zu ermöglichen. Mithilfe von explorativen Datenanalysen, Feature Engineering und Machine Learning Modellen werden Muster und Risikofaktoren, die zur Abwanderung führen, ermittelt.
