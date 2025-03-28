@@ -25,8 +25,7 @@ Der Datensatz stammt aus dem Kaggle-Wettbewerb [Telco Customer Churn](https://ww
 
 ## Projektstruktur
 - **Churn_Analysis.ipynb:** Das Haupt-Notebook, das alle Schritte von der Datenaufbereitung über die Analyse bis hin zur Modellierung umfasst.
-- **data/**
-  - **WA_Fn-UseC_-Telco-Customer-Churn.csv:** Primärer Datensatz mit den Kundeninformationen.
+- Data : **WA_Fn-UseC_-Telco-Customer-Churn.csv:** Primärer Datensatz mit den Kundeninformationen.
 - **requirements.txt:** Liste der erforderlichen Python-Pakete.
 - **README.md:** Diese Datei mit einer Projektübersicht und Anleitung.
 - **Churn_Dashboard.pbix:** Power BI Dashboard.
@@ -44,4 +43,4 @@ Python 3.11.3
 ## Installation und Ausführung
 1. Klonen Sie dieses Repository
 2. Installieren Sie die erforderlichen Abhängigkeiten: `pip install -r requirements.txt`
-3. Starten Sie die Streamlit-App: `streamlit run streamlit_app.py`
+
