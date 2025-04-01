@@ -9,7 +9,8 @@ Diese Anwendung dient der Vorhersage von Kunden-Churn. Ziel ist es, potenziell a
 - **Modelltraining und -bewertung:** Einsatz verschiedener Machine Learning Algorithmen zur Vorhersage des Churns, inklusive Evaluierung anhand von Kennzahlen wie Genauigkeit, Präzision, Recall und F1-Score.
 
 ## Datensatz
-Der Datensatz stammt aus dem Kaggle-Wettbewerb [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) :contentReference[oaicite:0]{index=0} und enthält Informationen zu Kunden eines fiktiven Telekommunikationsunternehmens. Die wichtigsten Spalten sind:
+Der Datensatz stammt aus dem Kaggle-Wettbewerb [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)  und enthält Informationen zu Kunden eines fiktiven Telekommunikationsunternehmens. Die Rohdaten umfassen 7043 Zeilen (Kunden) und 21 Spalten (Merkmale). 
+.Die wichtigsten Spalten sind:
 
 - **customerID:** Eindeutige Kennung für jeden Kunden.
 - **gender:** Geschlecht des Kunden (male, female).
